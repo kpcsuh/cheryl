@@ -90,7 +90,7 @@
 								</tr>
 								<tr>
 									<td>Luncheon</td>
-									<td style = "word-wrap: break-word;">Every Even Month 1st Sun. 12 pm</td>
+									<td style = "word-wrap: break-word;">Even Month 1st Sun. 12 pm</td>
 								</tr>
 							</table>
 						</section>
