@@ -6,14 +6,14 @@
 -->
 <html>
 	<head>
-		<title>Cheryl Bible Chanpel : Sermons</title>
+		<title>Cheryl Bible Chanpel : Media</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		
+
 		<style>
 		#calComp {
 		background : #FFFAF0 !important;
@@ -28,9 +28,9 @@
 			<!-- Main -->
 			<image src= "images/captionImages/sermons.jpg"  style = "max-width: 100%; float:left;clear: both;"/><span class="icon featured fa-microphone"/>
 				<br/><br/>
-			<div>
+			<div width="80%" height="100%">
 			<iframe id ="calComp" src="https://drive.google.com/embeddedfolderview?id=0B5DgcATfZFjTfnhmaG9rajBnOTNITk5ERngwSjRvMmZCUHFHbzNGTEc2bG1GcllpeGhHOE0#list" width="800" height="1400" frameborder="0"></iframe>
-			
+
 			</div>
 
 		</div>
@@ -59,7 +59,7 @@
 				.removeAttr( "width" )
 				.removeAttr( "height" );
 			}
-			
+
 			});
 
 			// Resize the iframes when the window is resized

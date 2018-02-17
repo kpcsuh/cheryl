@@ -143,62 +143,14 @@
 	<div id="page-wrapper">
 <?php include 'header.php'; ?>
 		<!-- Banner -->
+		
+		
+		
 		<section id="banner">
-
-
-			<div id="jssor_1"
-				style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1300px; height: 500px; overflow: hidden;">
-				<!-- Loading Screen -->
-				<div data-u="loading">
-					<div
-						style="filter: alpha(opacity = 70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
-					<div
-						style="position: absolute; display: block; background: url('img/loading.gif') no-repeat center center; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
-				</div>
-				
-
+		
+		<img src="images/frontpage/IMG_0955KSTV.JPG" width="100%" class="img-responsive" alt="Responsive image" />
 	
-				<div data-u="slides"
-					style="cursor: default; position: relative; top: 0px; left: 0px; width: 1300px; height: 600px; overflow: hidden;">
 
-					<div style="display: none;">
-						<img data-u="image" src="images/frontpage/IMG_0955KSTV.JPG" />
-					</div>
-<!--					<div style="display: none;">
-						<img data-u="image" src="images/frontpage/IMG_0986SV.JPG" />
-					</div>
-					<div style="display: none;">
-						<img data-u="image" src="images/frontpage/IMG_0983KSV.JPG" />
-					</div>
-					<div style="display: none;">
-						<img data-u="image" src="images/frontpage/IMG_0973KTV.JPG" />
-					</div>
-					<div style="display: none;">
-						<img data-u="image" src="images/frontpage/IMG_0966KV.JPG" />
-					</div>
-					<div style="display: none;">
-						<img data-u="image" src="images/frontpage/IMG_0961TV.JPG" />
-					</div>
--->
-				</div>
-				
-			
-				<!-- Bullet Navigator -->
-				<div data-u="navigator" class="jssorb05"
-					style="bottom: 16px; right: 6px;" data-autocenter="1">
-					<!-- bullet navigator item prototype -->
-					<div data-u="prototype" style="width: 16px; height: 16px;"></div>
-				</div>
-				<!-- Arrow Navigator -->
-				<span data-u="arrowleft" class="jssora22l"
-					style="top: 123px; left: 12px; width: 40px; height: 58px;"
-					data-autocenter="2"></span> <span data-u="arrowright"
-					class="jssora22r"
-					style="top: 123px; right: 12px; width: 40px; height: 58px;"
-					data-autocenter="2"></span> <a href="http://www.jssor.com"
-					style="display: none">Jssor Slider</a>
-
-			</div>
 			<p/>
 			<p/>
 
@@ -246,7 +198,67 @@
 				<h2>
 					We are an assembly of believers gathered to the name of the Lord Jesus Christ to devote ourselves to the apostles doctrine, fellowship, breaking of bread and prayer.
 				</h2>
+				
+				<p/>
+				<h2> Why <strong>we meet</strong> as we do (watch video below)</h2>
+				
+							<div id="jssor_1"
+				style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1300px; height: 550px; overflow: hidden;">
+				<!-- Loading Screen -->
+				<div data-u="loading">
+					<div
+						style="filter: alpha(opacity = 70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+					<div
+						style="position: absolute; display: block; background: url('img/loading.gif') no-repeat center center; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+				</div>
+				
+
+	
+				<div data-u="slides"
+					style="cursor: default; position: relative; top: 0px; left: 0px; width: 1300px; height: 600px; overflow: hidden;">
+
+<!--					<div style="display: none;">
+						<img data-u="image" src="images/frontpage/IMG_0955KSTV.JPG" />
+					</div>
+-->
+					<div style="display: none;">
+									<iframe src="https://player.vimeo.com/video/172997838?title=0&byline=0&portrait=0" width="1280" height="520" style="border:0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</div>
+<!--					<div style="display: none;">
+						<img data-u="image" src="images/frontpage/IMG_0986SV.JPG" />
+					</div>
+					<div style="display: none;">
+						<img data-u="image" src="images/frontpage/IMG_0983KSV.JPG" />
+					</div>
+					<div style="display: none;">
+						<img data-u="image" src="images/frontpage/IMG_0973KTV.JPG" />
+					</div>
+					<div style="display: none;">
+						<img data-u="image" src="images/frontpage/IMG_0966KV.JPG" />
+					</div>
+					<div style="display: none;">
+						<img data-u="image" src="images/frontpage/IMG_0961TV.JPG" />
+					</div>
+-->
+				</div>
+				
 			
+				<!-- Bullet Navigator -->
+				<div data-u="navigator" class="jssorb05"
+					style="bottom: 16px; right: 6px;" data-autocenter="1">
+					<!-- bullet navigator item prototype -->
+					<div data-u="prototype" style="width: 16px; height: 16px;"></div>
+				</div>
+				<!-- Arrow Navigator -->
+				<span data-u="arrowleft" class="jssora22l"
+					style="top: 123px; left: 12px; width: 40px; height: 58px;"
+					data-autocenter="2"></span> <span data-u="arrowright"
+					class="jssora22r"
+					style="top: 123px; right: 12px; width: 40px; height: 58px;"
+					data-autocenter="2"></span> <a href="http://www.jssor.com"
+					style="display: none">Jssor Slider</a>
+
+			</div>
 			</header>
 
 			<!-- One -->

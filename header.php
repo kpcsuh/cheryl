@@ -10,9 +10,10 @@
 	<li><a href="calendar.php">Calendar</a></li>
 	<li><a href="sermons.php">Sermons</a></li>
 	<li><a href="churchMap.php">Location Map</a></li>
-	<li><a href="#">Others</a>
+	<li><a href="#">More</a>
 	<ul>
 	<li><a href="mensmeeting.php">Men's Meeting</a></li>
+	<li><a href="scriptureverses.php">Memory Verses</a></li>
 	<li><a href="theGospel.php">The Gospel</a></li>
 	<li><a href="prayerRequests.php">Prayer Requests</a></li>
 		<li><a href="#">Gallery</a>

@@ -10,7 +10,7 @@
 					</ul>
 
 					<ul class="copyright">
-						<li>Cheryl Bible Chapel &copy;2015</li></a></li>
+						<li>Cheryl Bible Chapel &copy;2016</li></a></li>
 					</ul>
 
 				</footer>
